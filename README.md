@@ -31,5 +31,5 @@ Implementation
 
 Screenshots
 -
-<img src='app/01.png' width=480/>
-<img src='app/02.png' width=480/>
+<img src='app/s01.png' width=480/>
+<img src='app/s02.png' width=480/>
