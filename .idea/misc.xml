@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/app/src/main/res/drawable/person.xml" value="0.1085" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/app/src/main/res/drawable/transparent.xml" value="0.121" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/drawable/foreground.xml" value="0.1765" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/drawable/header_back.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/drawable/incoming_back.xml" value="0.168" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/drawable/input_box.xml" value="0.1865" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/drawable/outgoing_back.xml" value="0.169" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/layout/incoming_image.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/layout/incoming_message.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/layout/incoming_view.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/layout/main_layout.xml" value="0.152" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/layout/message_container.xml" value="0.152" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/layout/outgoing_image.xml" value="0.12" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/layout/outgoing_message.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/EasyChatLib/easyChatLib/src/main/res/layout/outgoing_view.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
