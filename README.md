@@ -19,6 +19,17 @@ Implementation
 -
 
 ```
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+dependencies {
+    implementation 'com.github.ripanjatt:EasyChatLib:v1.0.0'
+}
+
 <com.ripanjatt.easychatlib.EasyChatLib
     android:id="@+id/chatView"
     android:layout_width="match_parent"
