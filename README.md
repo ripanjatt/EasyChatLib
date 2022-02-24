@@ -9,7 +9,8 @@ Features
 * Show custom views (incoming/outgoing)
 and much more...
 
-# Currently working on
+Currently working on
+-
 * Long press messages
 * Collapsable (For chatbot popup)
 * More animations and UI features
